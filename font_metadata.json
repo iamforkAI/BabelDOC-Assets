@@ -38,6 +38,19 @@
     "sha3_256": "8585c29f89b322d937f83739f61ede5d84297873e1465cad9a120a208ac55ce0",
     "size": 8724704
   },
+  "LXGWWenKaiGB-Regular.1.520.ttf": {
+    "ascent": 928,
+    "bold": 0,
+    "descent": -256,
+    "encoding_length": 2,
+    "file_name": "LXGWWenKaiGB-Regular.1.520.ttf",
+    "font_name": "LXGW WenKai GB Regular",
+    "italic": 0,
+    "monospace": 0,
+    "serif": 0,
+    "sha3_256": "0671656b00992e317f9e20610e7145b024e664ada9f272d4f8e497196af98005",
+    "size": 24903712
+  },
   "LXGWWenKaiGB-Regular.ttf": {
     "ascent": 928,
     "bold": 0,
@@ -63,6 +76,19 @@
     "serif": 0,
     "sha3_256": "596b278d11418d374a1cfa3a50cbfb82b31db82d3650cfacae8f94311b27fdc5",
     "size": 13115416
+  },
+  "LXGWWenKaiTC-Regular.1.520.ttf": {
+    "ascent": 928,
+    "bold": 0,
+    "descent": -256,
+    "encoding_length": 2,
+    "file_name": "LXGWWenKaiTC-Regular.1.520.ttf",
+    "font_name": "LXGW WenKai TC Regular",
+    "italic": 0,
+    "monospace": 0,
+    "serif": 0,
+    "sha3_256": "347d3d4bd88c2afcb194eba186d2c6c0b95d18b2145220feb1c88abf761f1398",
+    "size": 15348376
   },
   "LXGWWenKaiTC-Regular.ttf": {
     "ascent": 928,
